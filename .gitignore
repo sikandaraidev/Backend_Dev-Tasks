@@ -1,0 +1,13 @@
+# Local and Remote combined .gitignore
+*.pyc
+*.pyo
+*.pyd
+
+Middlewares/__pucache__/
+Middlewares/.venv/
+Middlewares/.env/
+
+
+Routing_Methods/__pucache__/
+Routing_Methods/.venv/
+Routing_Methods/.env/
